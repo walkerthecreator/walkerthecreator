@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @walkerthecreator pursuing my B.tech in Computer Science & Engineering.
+- 👋 Hi, I’m Nitin pursuing my B.tech in Computer Science & Engineering.
 - 👀 I’m interested in Web development & web3.
 - 🌱 I’m currently learning Backend development.
 - 📫 How to reach me @walkerthecreator on Instagram.
