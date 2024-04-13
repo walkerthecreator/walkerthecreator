@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/nitinjaswal26" target="blank"><img src="https://img.shields.io/twitter/follow/nitinjaswal26?logo=twitter&style=for-the-badge" alt="nitinjaswal26" /></a> </p>
 
-- 🔭 I’m currently working on [ratemypg - a pg review system](ratemypg-gamma.vercel.app)
+- 🔭 I’m currently working on [ratemypg - a pg review system](ratemypg.in)
 
 - 🌱 I’m currently learning  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 
