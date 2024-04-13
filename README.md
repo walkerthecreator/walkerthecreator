@@ -1,3 +1,8 @@
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/src/app/ci.min.css"
+/>
+
 <h1 align="center">Hi 👋, I'm Nitin Jaswal</h1>
 <h3 align="center">Software Engineer</h3>
 
